@@ -5,6 +5,10 @@
 ![Plantit-frontend](https://img.shields.io/github/languages/top/webermg/Plantit-frontend)
 ## Description
 Plant-it is a garden planner, discussion forum, and plant information center. The “My Garden” page allows users to freely design their garden, and place their favorited plants directly into the design. The image is saved and displayed in the “Gallery” page alongside other Users’ gardens. 
+
+Technologies used- Trefle API  React Router, React Spring, Material UI CSS Framework, Material UI Icons, MongoDB and Mongoose, React, Express, Axios, Bcrypt, JSON Web Tokens, CORS, Konva and Lodash.
+
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
